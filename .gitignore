@@ -1,3 +1,4 @@
+/src/*/*.bs.js
 .merlin
 /node_modules/
 /lib/*
